@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liyema04
 - 👀 I’m an eFootball™ Gamer 🎮 that is eager to learn how to code... 
-- 👨🏾‍💻 I’m currently learning Python, Javascript & C#
+- 👨🏾‍💻 I’m currently learning Python, HTML, CSS & JS
 - 🤔 I’m looking to collaborate on group projects for beginners  
 - 📫 How to reach me -> liyema.mkebe15@gmail.com
 - 🙋🏾‍♂️ Gender : Male
