@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-south-africa.svg" alt="Header Banner" width="100%" />
+  <img src="./assets/header-banner-0.svg" alt="Header Banner" width="100%" height="320px" />
 </p>
 
 # Hi, I'm Liyema 👋🏾
@@ -14,32 +14,24 @@ Building fast, user-focused web applications that solve real business problems.
 ## 🚀 About Me
 
 Based in South Africa
-💻 Frontend Developer
-🌱 Currently learning React, Python & C#
-🎯 Working towards becoming a Junior Full-Stack Developer
-🤝 Open to collaborating with other developers
-📚 Passionate about great user experiences and solving real-world problems
+
+- 🌱 Currently learning React, Python & C#
+
+- 🎯 Working towards becoming a Junior Full-Stack Developer
+
+- 🤝 Open to collaborating with other developers
+
+- 📚 Passionate about great user experiences and solving real-world problems
 
 ## 🔨 Currently Building
 
-🚀 APEX IT Support
-📈 Lead-generation websites for SMEs
-📰 Full-stack Resources Platform (for APEX IT Support)
-🎨 My personal portfolio website
+- 🚀 APEX IT Support
 
-## 📖 Learning
+- 📈 Lead-generation websites for SMEs
 
-✔ React
+- 📰 Full-stack Resources Platform (for APEX IT Support)
 
-✔ Python
-
-✔ C#
-
-🔜 PostgreSQL
-
-🔜 FastAPI
-
-🔜 Tailwind CSS
+- 🎨 My personal portfolio website
 
 ## ⭐ Featured Projects
 
@@ -61,6 +53,20 @@ A production-style lead capture application that collects enquiries, protects ag
 
 ---
 
+## 📖 Learning
+
+✔ React
+
+✔ Python
+
+✔ C#
+
+🔜 PostgreSQL
+
+🔜 FastAPI
+
+🔜 Tailwind CSS
+
 ### 🖥️ APEX IT Support
 A modern landing page showcasing responsive design, advanced scroll animations, and effective call-to-action patterns for service businesses.
 
@@ -75,11 +81,3 @@ I believe software should solve real problems.
 Every project I build starts by identifying a user's problem before writing a single line of code.
 
 Technology is simply the tool—the solution comes first.
-
-## 🎮 Outside Tech
-
-⚽ eFootball 2026
-
-🦁💙 Up the Chels! 
-
-🎥 Streaming gameplay
