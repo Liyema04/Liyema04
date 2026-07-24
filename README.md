@@ -5,7 +5,7 @@
 # Hi, I'm Liyema 👋🏾
 
 Frontend Developer from South Africa 
-Building fast, user-focused web applications that solve real business problems.
+Building fast, user-focused web applications that solve real problems.
 
 [![Stack](https://skillicons.dev/icons?i=js,html,css,py,django,express,nodejs,figma,vercel,netlify)](https://skillicons.dev)
 
@@ -53,6 +53,15 @@ A production-style lead capture application that collects enquiries, protects ag
 
 ---
 
+### 🖥️ APEX IT Support
+A modern landing page showcasing responsive design, advanced scroll animations, and effective call-to-action patterns for service businesses.
+
+**Tech:** HTML, CSS, JavaScript
+
+🚧 **Status:** In Development
+
+---
+
 ## 📖 Learning
 
 ✔ React
@@ -66,13 +75,6 @@ A production-style lead capture application that collects enquiries, protects ag
 🔜 FastAPI
 
 🔜 Tailwind CSS
-
-### 🖥️ APEX IT Support
-A modern landing page showcasing responsive design, advanced scroll animations, and effective call-to-action patterns for service businesses.
-
-**Tech:** HTML, CSS, JavaScript
-
-🚧 **Status:** In Development
 
 ## 💭 Philosophy
 
