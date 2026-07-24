@@ -1,30 +1,31 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Header Banner" width="100%" />
+  <img src="./assets/header-south-africa.svg" alt="Header Banner" width="100%" />
 </p>
 
-# Hi, I'm Liyema 👋
+# Hi, I'm Liyema 👋🏾
 
-Frontend Developer from South Africa 🇿🇦
-
+Frontend Developer from South Africa 
 Building fast, user-focused web applications that solve real business problems.
 
-> "Each project built must be solution based, as we are called to be servants of others—not of self."
+[![Stack](https://skillicons.dev/icons?i=js,html,css,py,django,express,nodejs,figma,vercel,netlify)](https://skillicons.dev)
+
+> "Every project built must be solution based, for we are called to be servants of others; not of self."
 
 ## 🚀 About Me
 
-- 🇿🇦 Based in South Africa
-- 💻 Frontend Developer
-- 🌱 Currently learning React, Python & C#
-- 🎯 Working towards becoming a Junior Full-Stack Developer
-- 🤝 Open to collaborating with other developers
-- 📚 Passionate about great user experiences and solving real-world problems
+Based in South Africa
+💻 Frontend Developer
+🌱 Currently learning React, Python & C#
+🎯 Working towards becoming a Junior Full-Stack Developer
+🤝 Open to collaborating with other developers
+📚 Passionate about great user experiences and solving real-world problems
 
 ## 🔨 Currently Building
 
-- 🚀 APEX IT Support
-- 📈 Lead-generation websites for SMEs
-- 📰 Full-stack Resources Platform (for APEX IT Support)
-- 🎨 My personal portfolio website
+🚀 APEX IT Support
+📈 Lead-generation websites for SMEs
+📰 Full-stack Resources Platform (for APEX IT Support)
+🎨 My personal portfolio website
 
 ## 📖 Learning
 
@@ -79,6 +80,6 @@ Technology is simply the tool—the solution comes first.
 
 ⚽ eFootball 2026
 
-🇬🇧🦁💙 Up the Chels! 
+🦁💙 Up the Chels! 
 
-🎥 Streaming while gameplay
+🎥 Streaming gameplay
