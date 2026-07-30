@@ -50,19 +50,11 @@ A production-style lead capture application that collects enquiries, protects ag
 
 ## 📖 Learning
 
-- React [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
-- Python [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-
-- C# [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cs,react,tailwind)](https://skillicons.dev)
 
 ### **Soon**
 
-- PostgreSQL [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-
-- FastAPI [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-
-- Tailwind CSS [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Soon](https://skillicons.dev/icons?i=postgres,fastapi)](https://skillicons.dev)
 
 ## 💭 Philosophy
 
