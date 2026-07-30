@@ -35,14 +35,13 @@ Based in South Africa
 
 ## ⭐ Featured Projects
 
-- **[SentiWise](https://github.com/Liyema04/Personal-finance-tracker)** | **Status:** In Development
+**[SentiWise](https://github.com/Liyema04/Personal-finance-tracker)** | **Status:** In Development
 
-- **[APEX IT Support](https://github.com/Liyema04/first-landing)** | **Status:** In Development
+**[APEX IT Support](https://github.com/Liyema04/first-landing)** | **Status:** In Development
 
-- **Gauteng Water** *(Private)*
-A production-style lead capture application that collects enquiries, protects against spam with Cloudflare Turnstile, stores leads in Supabase, and automates email notifications using Resend.
+**Gauteng Water** | *(Private)*
 
-**Tech:** HTML, CSS, JavaScript, Node.js, Express, Supabase, Resend, Cloudflare Turnstile
+A production-style lead capture application that collects enquiries, protects against spam with Cloudflare Turnstile, stores leads in Supabase, and automates email notifications using Resend. **Tech:** HTML, CSS, JavaScript, Node.js, Express, Supabase, Resend, Cloudflare Turnstile
 
 **Live Demo:** https://gauteng-water.vercel.app/
 
@@ -62,4 +61,4 @@ I believe software should solve real problems.
 
 Every project I build starts by identifying a user's problem before writing a single line of code.
 
-Technology is simply the tool—the solution comes first.
+Technology is simply the tool; the solution comes first.
