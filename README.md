@@ -35,46 +35,34 @@ Based in South Africa
 
 ## ⭐ Featured Projects
 
-### 💰 SentiWise
-A beginner-friendly personal finance tracker built with Django to help South African youth develop better financial habits through gamification.
+- **[SentiWise](https://github.com/Liyema04/Personal-finance-tracker)** | **Status:** In Development
 
-**Tech:** Django, Python, HTML, CSS, JavaScript, SCSS, Bootstrap
+- **[APEX IT Support](https://github.com/Liyema04/first-landing)** | **Status:** In Development
 
-🔗 **Repository:** [SentiWise](https://github.com/Liyema04/Personal-finance-tracker)
-
----
-
-### 💧 Gauteng Water *(Private)*
+- **Gauteng Water** *(Private)*
 A production-style lead capture application that collects enquiries, protects against spam with Cloudflare Turnstile, stores leads in Supabase, and automates email notifications using Resend.
 
 **Tech:** HTML, CSS, JavaScript, Node.js, Express, Supabase, Resend, Cloudflare Turnstile
 
-🌐 **Live Demo:** https://gauteng-water.vercel.app/
-
----
-
-### 🖥️ APEX IT Support
-A modern landing page showcasing responsive design, advanced scroll animations, and effective call-to-action patterns for service businesses.
-
-**Tech:** HTML, CSS, JavaScript
-
-🚧 **Status:** In Development
+**Live Demo:** https://gauteng-water.vercel.app/
 
 ---
 
 ## 📖 Learning
 
-✔ React
+- React [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-✔ Python
+- Python [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-✔ C#
+- C# [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
-🔜 PostgreSQL
+### **Soon**
 
-🔜 FastAPI
+- PostgreSQL [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
-🔜 Tailwind CSS
+- FastAPI [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+
+- Tailwind CSS [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
 ## 💭 Philosophy
 
