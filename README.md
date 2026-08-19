@@ -5,7 +5,7 @@
 # Hi, I'm Liyema 👋🏾
 
 Frontend Developer from South Africa 
-Building fast, user-focused web applications that solve real problems.
+building fast, user-focused web applications that solve real problems.
 
 [![Stack](https://skillicons.dev/icons?i=js,html,css,py,django,express,nodejs,figma,vercel,netlify)](https://skillicons.dev)
 
